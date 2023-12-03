@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && copy dist\\* docs",
     "format": "prettier -w ."
   },
   "dependencies": {

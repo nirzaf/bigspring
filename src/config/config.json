@@ -26,12 +26,12 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
-    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+    "footer_content": "",
+    "copyright": "Designed and Developed By [Quadrate Tech Solutions](https://quadrate.lk)"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Studytomy",
     "meta_image": "/images/og-image.png",
     "meta_description": "astro boilerplate"
   }
